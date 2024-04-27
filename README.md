@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pokedex**
 
-- 🌱 I’m currently learning **web development, JS, nodeJS, Angular, React**
+- 🌱 I’m currently learning **web development, Javascript, Typescript, NodeJs, ExpressJs, Angular, React, NextJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

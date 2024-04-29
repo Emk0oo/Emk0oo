@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">Computer Science Student / Web developer for Renault</h3>
 
-- 🔭 I’m currently working on **Pokedex**
+- 🔭 I’m currently working on **Pokedex, Notes & Herouville-Futsal**
 
 - 🌱 I’m currently learning **web development, Javascript, Typescript, NodeJs, ExpressJs, Angular, React, NextJS**
 

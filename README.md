@@ -2,13 +2,18 @@
   
 
 I'm a Computer Science student and a Fullstack Web Developer currently working for Group Renault in France. At Renault, I contribute to projects on a worldwide scale for all the brands in the group, including Renault, Dacia, and Alpine. My role encompasses project management, gathering customer specifications, coding, deployment, and ensuring successful deliverables.  
-  
+
+## **👨‍💻 About Me**
 
 - 🎓 Studying Computer Science since 2021 and focusing on Web Development since 2023.
   
   
 
 - 💻 Passionate about software development, industry, and constantly improving my skills.
+
+
+
+- 👨‍💻 Personal portfolio: **<a href="https://www.emirjavor.dev/" target="_blank">Portfolio</a>**
   
   
 
@@ -16,13 +21,17 @@ I'm a Computer Science student and a Fullstack Web Developer currently working f
   
   
 
-- 🔭 Currently learning more about cloud deployment on AWS and Azure.  
+- 🔭 Currently learning more about cloud deployment on AWS and Azure.
+
+
+
+- 💪Always learning and improving my skills
   
 
 <br/>  
 
 
-## My Skill Set  
+## **🚀 Technologies & Tools**  
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +76,7 @@ I'm a Computer Science student and a Fullstack Web Developer currently working f
 <br/>  
 
 
-## Connect with me  
+## **📫 Connect with me  **
 <div align="center">
 <a href="https://github.com/Emk0oo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

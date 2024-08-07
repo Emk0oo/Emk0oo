@@ -25,7 +25,7 @@ I'm a Computer Science student and a Fullstack Web Developer currently working f
 
 
 
-- 💪Always learning and improving my skills
+- 💪 Always learning and improving my skills
   
 
 <br/>  

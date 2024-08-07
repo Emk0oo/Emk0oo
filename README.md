@@ -80,7 +80,7 @@ I'm a Computer Science student and a Fullstack Web Developer currently working f
 <br/>  
 
 
-## **📫 Connect with me  **
+## ** 📫 Connect with me  **
 <div align="center">
 <a href="https://github.com/Emk0oo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -114,6 +114,3 @@ I'm a Computer Science student and a Fullstack Web Developer currently working f
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

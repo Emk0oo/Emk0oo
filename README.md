@@ -95,15 +95,12 @@ I'm a Computer Science student and a Fullstack Web Developer currently working f
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Emk0oo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Emk0oo&show_icons=true&count_private=true&hide_border=true" align="center" /><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Emk0oo&theme=dark&hide_border=true" alt="GitHub Streak" /></a></div>  
 
 <br/>    
 
-<br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Emk0oo&&style=flat-square" align="center" />

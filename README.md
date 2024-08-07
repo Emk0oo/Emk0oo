@@ -4,7 +4,7 @@
 I'm a Computer Science student and a Fullstack Web Developer currently working for Group Renault in France. At Renault, I contribute to projects on a worldwide scale for all the brands in the group, including Renault, Dacia, and Alpine. My role encompasses project management, gathering customer specifications, coding, deployment, and ensuring successful deliverables.  
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW16YmhoNTA3Z2VzajR5cmQ2NzBibTk0MGRieXc0YzN6OWc4czR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4WFEuV8V1BBxa8jU7M/giphy.webp" align="right" style="width: 80%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW16YmhoNTA3Z2VzajR5cmQ2NzBibTk0MGRieXc0YzN6OWc4czR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4WFEuV8V1BBxa8jU7M/giphy.webp" align="right" style="width: 40%" />
 </div>
 
 ## **👨‍💻 About Me**

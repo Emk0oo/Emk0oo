@@ -1,36 +1,27 @@
 # **<div align="center">Hi there, I'm Javor Emir 👋</div>**  
   
-
 I'm a Computer Science student and a Fullstack Web Developer currently working for Group Renault in France. At Renault, I contribute to projects on a worldwide scale for all the brands in the group, including Renault, Dacia, and Alpine. My role encompasses project management, gathering customer specifications, coding, deployment, and ensuring successful deliverables.  
-
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW16YmhoNTA3Z2VzajR5cmQ2NzBibTk0MGRieXc0YzN6OWc4czR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4WFEuV8V1BBxa8jU7M/giphy.webp" align="right" style="width: 40%" />
-</div>
 
 ## **👨‍💻 About Me**
 
-- 🎓 Studying Computer Science since 2021 and focusing on Web Development since 2023.
+<div>
+  <p align="left" style="width: 60%; display: inline-block;">
   
+  - 🎓 Studying Computer Science since 2021 and focusing on Web Development since 2023.
   
-
-- 💻 Passionate about software development, industry, and constantly improving my skills.
-
-
-
-- 👨‍💻 Personal portfolio: **<a href="https://www.emirjavor.dev/" target="_blank">Portfolio</a>**
+  - 💻 Passionate about software development, industry, and constantly improving my skills.
   
+  - 👨‍💻 Personal portfolio: **<a href="https://www.emirjavor.dev/" target="_blank">Portfolio</a>**
   
-
-- 🌱 Started with C++ in 2021 and have since transitioned to JavaScript development.
+  - 🌱 Started with C++ in 2021 and have since transitioned to JavaScript development.
   
+  - 🔭 Currently learning more about cloud deployment on AWS and Azure.
   
-
-- 🔭 Currently learning more about cloud deployment on AWS and Azure.
-
-
-
-- 💪 Always learning and improving my skills
+  - 💪 Always learning and improving my skills
   
+  </p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW16YmhoNTA3Z2VzajR5cmQ2NzBibTk0MGRieXc0YzN6OWc4czR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4WFEuV8V1BBxa8jU7M/giphy.webp" align="right" style="width: 35%; display: inline-block;" />
+</div>
 
 <br/>  
 

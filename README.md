@@ -7,21 +7,25 @@ I'm a Computer Science student and a Fullstack Web Developer currently working f
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
+  <!-- Left Side: List -->
   <div style="flex: 1;">
-    ## **👨‍💻 About Me**
-    - 🎓 Studying Computer Science since 2021 and focusing on Web Development since 2023.
-    - 💻 Passionate about software development, industry, and constantly improving my skills.
-    - 👨‍💻 Personal portfolio: **<a href="https://www.emirjavor.dev/" target="_blank">Portfolio</a>**
-    - 🌱 Started with C++ in 2021 and have since transitioned to JavaScript development.
-    - 🔭 Currently learning more about cloud deployment on AWS and Azure.
-    - 💪 Always learning and improving my skills
+    <ul>
+      <li>🎓 Studying Computer Science since 2021 and focusing on Web Development since 2023.</li>
+      <li>💻 Passionate about software development, industry, and constantly improving my skills.</li>
+      <li>👨‍💻 Personal portfolio: <a href="https://www.emirjavor.dev/" target="_blank">Portfolio</a></li>
+      <li>🌱 Started with C++ in 2021 and have since transitioned to JavaScript development.</li>
+      <li>🔭 Currently learning more about cloud deployment on AWS and Azure.</li>
+      <li>💪 Always learning and improving my skills.</li>
+    </ul>
   </div>
 
+  <!-- Right Side: GIF -->
   <div style="flex: 0 0 35%; text-align: right;">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW16YmhoNTA3Z2VzajR5cmQ2NzBibTk0MGRieXc0YzN6OWc4czR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4WFEuV8V1BBxa8jU7M/giphy.webp" style="width: 100%; max-width: 200px;" />
   </div>
 
 </div>
+
 
 <br/>  
 

@@ -21,7 +21,7 @@ I'm a Computer Science student and a Fullstack Web Developer currently working f
   
   
 
-- 🌱 Started with C++ in 2021 and have since transitioned to JavaScript development.
+- 🌱 Started with C++ in 2021 and have since transitioned to JavaScript/TypeScript development.
   
   
 
